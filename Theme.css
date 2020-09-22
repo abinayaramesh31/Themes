@@ -1,5 +1,30 @@
-
-
-div#_widget_wfx_ { 
-background-color: #17212d !important; 
+body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-title"]  {
+font-size : 30px !important;
+font-family : Apple Chancery !important;
 }
+
+[id*="wfx-dashboard-self-help-flow-"] {
+color: #1481a8 !important;
+}
+
+font-family : Apple Chancery !important;
+
+body > table > tbody > tr:nth-child(2) > td {
+background-color:  #DEEFF3 !important; 
+}
+
+body > table > tbody > tr:nth-child(4) > td {
+background-color:  #DEEFF3 !important;
+}
+
+[type="button"][class="co-quicko-whatfix-start-StartCss-primaryButton"]
+{
+border-color:  black !important;
+}
+
+[type="button"][class="co-quicko-whatfix-start-StartCss-secondaryButton""]
+{
+border-color:  red !important;
+}
+
+
