@@ -61,6 +61,15 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 
 }
 
+
+/*TL Header*/
+body > table > tbody > tr > td > div > div > div{
+font-size : 18px !important;
+font-family : Arial !important;
+font-weight: bold;
+color: #FFFFFF !important; 
+}
+
 /* Smart Tip Border Radius*/
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
