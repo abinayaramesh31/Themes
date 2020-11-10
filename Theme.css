@@ -14,12 +14,12 @@ font-family : Arial !important;
 }
 
 /* SH Search Field */
-/*input[id="search"]*/
-body > table > tbody > tr:nth-child(2) > td > div > div > table > tbody > tr
+input[id="search"]
 {
 font-size : 16px !important;
 color: #727365 !important;  
 }
+
 /* Padding below search border*/
 body > table > tbody > tr:nth-child(2) > td > div > div > table
 {
