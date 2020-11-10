@@ -29,12 +29,14 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 padding-bottom: 13px;
 }
 
-font-family : Arial !important;
-
+/* Smart Tool Tip Padding */
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
   border-radius: 4px !important;
 }
+
+font-family : Arial !important;
+
 
 /*
 body > table > tbody > tr:nth-child(2) > td {
