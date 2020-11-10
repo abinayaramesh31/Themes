@@ -29,13 +29,17 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 padding-bottom: 13px;
 }
 
-/* Smart Tool Tip Padding */
+/* Smart Tip Border Radius*/
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
   border-radius: 4px !important;
   font-family : Arial !important;
 }
 
+#wfx-tooltip-title
+{
+  font-family : Arial !important;
+}
 font-family : Arial !important;
 
 
