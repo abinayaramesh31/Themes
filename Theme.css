@@ -10,21 +10,20 @@
     font-size: 14px !important;
 }
 
-/* Tool Tip Back and Next Button On Hover Color 
+/* Tool Tip Back and Next Button On Hover Color */
 #wfx-tooltip-back:hover,#wfx-tooltip-next:hover{
     color: #FFD530 !important;
     background-color: #030000 !important;
-}*/
-
-
+}
 
 
 /*End Message Close Button*/
-[aria-label=Close][type=button]{
+#wfx-end-popup-feedback-form > div.WFENLCB > button {
     border-radius: 4px !important;
 }
-[aria-label=Close][type=button]:hover{
+#wfx-end-popup-feedback-form > div.WFENLCB > button:hover{
    color: #FFD530 !important;
+   border-radius: 4px !important;
 }
 
 
