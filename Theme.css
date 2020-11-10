@@ -78,6 +78,11 @@ font-family : Arial !important;
 color: #030000 !important;    
 }
 
+/*TL Border Radius*/
+#_tasker_launcher_wfx_{
+ border-radius: 4px !important;   
+}
+
 /* Smart Tip Border Radius*/
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
