@@ -1,34 +1,3 @@
-/*Flow Step Title */
-#wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div > div > div
-{
-   font-size : 14px !important; 
-}
-
-/* Tool Tip Back and Next Button */
-#wfx-tooltip-back,#wfx-tooltip-next {
-    border-radius: 4px !important;
-    font-size: 14px !important;
-}
-
-/* Tool Tip Back and Next Button On Hover Color */
-#wfx-tooltip-back:hover,#wfx-tooltip-next:hover{
-    color: #FFD530 !important;
-    background-color: #030000 !important;
-}
-
-
-/*End Message Close Button Border Radius*/
-#wfx-end-popup-feedback-form > div > button {
-    border-radius: 4px !important;
-}
-
-/*End Message Close Button On Hover Text Color*/
-#wfx-end-popup-feedback-form > div > button:hover {
-   color: #FFD530 !important;
-   border-radius: 4px !important;
-}
-
-
 /* SH Title */
 body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-title"]  {
 font-size : 18px !important;
@@ -83,6 +52,35 @@ color: #030000 !important;
  border-radius: 4px !important;   
 }
 
+/*Flow Step Title */
+#wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div > div > div
+{
+   font-size : 14px !important; 
+}
+
+/* Flow Tool Tip Back and Next Button */
+#wfx-tooltip-back,#wfx-tooltip-next {
+    border-radius: 4px !important;
+    font-size: 14px !important;
+}
+
+/* Tool Tip Back and Next Button On Hover Color */
+#wfx-tooltip-back:hover,#wfx-tooltip-next:hover{
+    color: #FFD530 !important;
+    background-color: #030000 !important;
+}
+
+/*End Message Close Button Border Radius*/
+#wfx-end-popup-feedback-form > div > button {
+    border-radius: 4px !important;
+}
+
+/*End Message Close Button On Hover Text Color*/
+#wfx-end-popup-feedback-form > div > button:hover {
+   color: #FFD530 !important;
+   border-radius: 4px !important;
+}
+
 /* Smart Tip Border Radius*/
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
@@ -117,27 +115,10 @@ body > div > div > div > div:nth-child(2) > button:hover{
     background-color: #030000 !important;
 }
 
-/* Smart Tip Font
-#wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table > tbody > tr > td > table
-{
-  font-family : Arial !important;
-}*/
-
-
-
+/* Font Family for Smart Tip */
 [id="wfx-smart-tip"]
 {
 font-family : Arial !important;
 }
-
-/*
-body > table > tbody > tr:nth-child(2) > td {
-background-color:  #DEEFF3 !important; 
-}
-
-body > table > tbody > tr:nth-child(4) > td {
-background-color:  #DEEFF3 !important;
-}
-*/
 
 
