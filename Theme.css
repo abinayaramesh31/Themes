@@ -23,13 +23,18 @@ font-size : 16px !important;
 color: #727365 !important;
 padding: 7px;  
 }
-
+/* Padding below search border*/
 body > table > tbody > tr:nth-child(2) > td > div > div > table
 {
 padding-bottom: 13px;
 }
 
 font-family : Arial !important;
+
+#wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
+{
+  border-radius: 4px !important;
+}
 
 /*
 body > table > tbody > tr:nth-child(2) > td {
