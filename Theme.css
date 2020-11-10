@@ -36,11 +36,11 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
   border-radius: 4px !important;
 }
 
-/* Smart Tip Font*/
+/* Smart Tip Font
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table > tbody > tr > td > table
 {
   font-family : Arial !important;
-}
+}*/
 
 /* Tool Tip Back and Next Button */
 #wfx-tooltip-back,#wfx-tooltip-next{
@@ -65,9 +65,10 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
    color: #FFD530 !important;
 }
 
-
+[id="wfx-smart-tip"]
+{
 font-family : Arial !important;
-
+}
 
 /*
 body > table > tbody > tr:nth-child(2) > td {
