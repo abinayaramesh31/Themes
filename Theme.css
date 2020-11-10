@@ -48,7 +48,6 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
     font-size: 14px !important;
     background-color: #030000 !important;
     border-radius: 4px !important;
-    font-weight: bold !important;
 }
 
 /* Tool Tip Back and Next Button On Hover Color */
