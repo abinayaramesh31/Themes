@@ -3,18 +3,20 @@ body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-t
 font-size : 18px !important;
 font-family : Arial !important;
 font-weight: bold;
+color: #FFFFFF !important; 
 }
 
 //Self Help Widget - Flows
 [id*="wfx-dashboard-self-help-flow-"] {
 color: #030000 !important;
-font-size : 18px !important;
+font-size : 16px !important;
 font-family : Arial !important;
 font-weight: bold;  
 }
 
 font-family : Arial !important;
 
+/*
 body > table > tbody > tr:nth-child(2) > td {
 background-color:  #DEEFF3 !important; 
 }
@@ -32,6 +34,6 @@ border-color:  black !important;
 {
 border-color:  red !important;
 }
-
+*/
 
 
