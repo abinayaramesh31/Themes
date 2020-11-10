@@ -70,6 +70,14 @@ font-weight: bold;
 color: #FFFFFF !important; 
 }
 
+/*TL Main Body*/
+body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"]
+{
+font-size : 16px !important;
+font-family : Arial !important;
+color: #030000 !important;    
+}
+
 /* Smart Tip Border Radius*/
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
