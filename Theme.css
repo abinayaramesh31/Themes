@@ -2,13 +2,10 @@ body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-t
 font-size : 18px !important;
 font-family : Arial !important;
 font-weight: bold;
-color: Red !important  
-//color: #FFFFFF !important; 
+color: #FFFFFF !important; 
 }
 
-body > table > tbody > tr:nth-child(1) > td > div[data-wfx-id="self-help-header"]{
-font-weight: bold;
-}
+
 
 [id*="wfx-dashboard-self-help-flow-"] {
 color: #030000 !important;
