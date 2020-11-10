@@ -18,10 +18,10 @@
 
 
 /*End Message Close Button*/
-#wfx-end-popup-feedback-form > div.WFENLCB > button {
+#wfx-end-popup-feedback-form > div > button {
     border-radius: 4px !important;
 }
-#wfx-end-popup-feedback-form > div.WFENLCB > button:hover{
+#wfx-end-popup-feedback-form > div > button:hover {
    color: #FFD530 !important;
    border-radius: 4px !important;
 }
