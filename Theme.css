@@ -53,6 +53,12 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
     background-color: #030000 !important;
 }
 
+/*Flow Step Title */
+#wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div > div
+{
+   font-size : 14px !important; 
+}
+
 /*End Message Close Button*/
 [aria-label=Close][type=button]{
     border-radius: 4px !important;
