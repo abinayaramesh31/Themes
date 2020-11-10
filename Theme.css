@@ -17,16 +17,16 @@
 }
 
 
-/*End Message Close Button*/
+/*End Message Close Button Border Radius*/
 #wfx-end-popup-feedback-form > div > button {
     border-radius: 4px !important;
 }
+
+/*End Message Close Button On Hover Text Color*/
 #wfx-end-popup-feedback-form > div > button:hover {
    color: #FFD530 !important;
    border-radius: 4px !important;
 }
-
-
 
 
 /* SH Title */
@@ -87,16 +87,6 @@ background-color:  #DEEFF3 !important;
 
 body > table > tbody > tr:nth-child(4) > td {
 background-color:  #DEEFF3 !important;
-}
-
-[type="button"][class="co-quicko-whatfix-start-StartCss-primaryButton"]
-{
-border-color:  black !important;
-}
-
-[type="button"][class="co-quicko-whatfix-start-StartCss-secondaryButton""]
-{
-border-color:  red !important;
 }
 */
 
