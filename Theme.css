@@ -47,11 +47,11 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
     border-radius: 4px !important;
 }
 
-/* Tool Tip Back and Next Button On Hover Color 
+/* Tool Tip Back and Next Button On Hover Color*/ 
 #wfx-tooltip-back:hover,#wfx-tooltip-next:hover{
     color: #FFD530 !important;
     background-color: #030000 !important;
-}*/
+}
 
 /*End Message Close Button*/
 [aria-label=Close][type=button]{
