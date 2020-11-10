@@ -33,6 +33,7 @@ padding-bottom: 13px;
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
   border-radius: 4px !important;
+  font-family : Arial !important;
 }
 
 font-family : Arial !important;
