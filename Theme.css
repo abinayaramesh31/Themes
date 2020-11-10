@@ -17,17 +17,17 @@ font-family : Arial !important;
 /*input[id="search"]*/
 body > table > tbody > tr:nth-child(2) > td > div > div > table > tbody > tr
 {
-border: 2px solid;
-border-color: #030000 !important;
-border-radius: 25px;
 font-size : 16px !important;
-color: #727365 !important;
-padding: 7px;  
+color: #727365 !important;  
 }
 /* Padding below search border*/
 body > table > tbody > tr:nth-child(2) > td > div > div > table
 {
-padding-bottom: 13px;
+    border: 2px solid;
+    border-radius: 25px;
+    padding-left: 12px;
+    border-color: #030000 !important;
+
 }
 
 /* Smart Tip Border Radius*/
