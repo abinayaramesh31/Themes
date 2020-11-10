@@ -45,6 +45,7 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 /* Tool Tip Back and Next Button */
 #wfx-tooltip-back,#wfx-tooltip-next{
     border-radius: 4px !important;
+    font-size: 14px !important;
 }
 
 /* Tool Tip Back and Next Button On Hover Color*/ 
