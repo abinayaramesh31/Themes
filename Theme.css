@@ -11,6 +11,13 @@ color: #030000 !important;
 font-size : 16px !important;
 font-family : Arial !important;
 }
+/* SH Search Field */
+[id="search"]
+{
+border: 2px solid;
+border-color: #030000 !important;
+border-radius: 25px;
+}
 
 
 font-family : Arial !important;
