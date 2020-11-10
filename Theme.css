@@ -15,7 +15,7 @@ font-family : Arial !important;
 
 /* SH Search Field */
 /*input[id="search"]*/
-body > table > tbody > tr:nth-child(2) > td > div > div > table > tbody
+body > table > tbody > tr:nth-child(2) > td > div > div > table > tbody > tr
 {
 border: 2px solid;
 border-color: #030000 !important;
