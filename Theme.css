@@ -5,6 +5,10 @@ font-family : Arial !important;
 font-weight: bold;
 color: #FFFFFF !important; 
 }
+//Self Help Widget Header
+body > table > tbody > tr:nth-child(1) > td > div[data-wfx-id="self-help-header"]{
+font-weight: bold;
+}
 
 //Self Help Widget - Flows
 [id*="wfx-dashboard-self-help-flow-"] {
