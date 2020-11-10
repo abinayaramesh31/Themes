@@ -42,6 +42,29 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
   font-family : Arial !important;
 }
 
+/* Tool Tip Back and Next Button */
+#wfx-tooltip-back,#wfx-tooltip-next{
+    color: #FFFFFF !important;
+    font-size: 14px !important;
+    background-color: #030000 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;
+}
+
+/* Tool Tip Back and Next Button On Hover Color */
+#wfx-tooltip-back:hover,#wfx-tooltip-next:hover{
+    color: #FFD530 !important;
+    background-color: #030000 !important;
+}
+
+/*End Message Close Button*/
+[aria-label=Close][type=button]{
+    border-radius: 4px !important;
+}
+[aria-label=Close][type=button]:hover{
+   color: #FFD530 !important;
+}
+
 font-family : Arial !important;
 
 
