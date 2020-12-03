@@ -1,7 +1,6 @@
 /* SH Title */
 body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-title"]  {
 font-size : 18px !important;
-font-family : Arial !important;
 font-weight: bold;
 color: #FFFFFF !important; 
 }
@@ -10,7 +9,6 @@ color: #FFFFFF !important;
 [id*="wfx-dashboard-self-help-flow-"] {
 color: #030000 !important;
 font-size : 16px !important;
-font-family : Arial !important;
 }
 
 /* SH Search Field */
@@ -34,7 +32,6 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 /*TL Header*/
 body > table > tbody > tr > td > div > div > div[aria-label*="My Tasks"]{
 font-size : 18px !important;
-font-family : Arial !important;
 font-weight: bold;
 color: #FFFFFF !important; 
 }
@@ -43,7 +40,6 @@ color: #FFFFFF !important;
 body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"]
 {
 font-size : 16px !important;
-font-family : Arial !important;
 color: #030000 !important;    
 }
 
@@ -115,10 +111,10 @@ body > div > div > div > div:nth-child(2) > button:hover{
     background-color: #030000 !important;
 }
 
-/* Font Family for Smart Tip */
+/* Font Family for Smart Tip 
 [id="wfx-smart-tip"]
 {
 font-family : Arial !important;
-}
+}*/
 
 
