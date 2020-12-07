@@ -54,7 +54,7 @@ line_height: 22px !important;
 #wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div > div > div
 {
    font-size : 14px !important; 
-   line_height: 22px !important;
+   line-height: 22px !important;
 }
 
 /* Flow Tool Tip Back and Next Button */
@@ -84,7 +84,7 @@ line_height: 22px !important;
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
   border-radius: 4px !important;
-    line_height: 22px !important;
+    line-height: 22px !important;
 }
 
 /* Flow as Popup Secondary Button */
@@ -94,7 +94,7 @@ font-size: 16px !important;
     background-color: #BFB8A6 !important;
     border-radius: 4px !important;
     font-weight: bold !important;
-    line_height: 22px !important;
+    line-height: 22px !important;
 }
 
 /* Flow as Popup Secondary Button On Hover*/
@@ -109,12 +109,12 @@ body > div > div > div > div:nth-child(2) > button{
     background-color: #030000 !important;
     border-radius: 4px !important;
     font-weight: bold !important;  
-    line_height: 22px !important;
+    line-height: 22px !important;
 }
 
 /* Flow as Popup line Height*/
 body > div > div{ 
-    line_height: 22px !important;
+    line-height: 22px !important;
 }
 
 /* Flow as Popup Primary Button On Hover*/
@@ -126,7 +126,7 @@ body > div > div > div > div:nth-child(2) > button:hover{
  Font Family for Smart Tip 
 [id="wfx-smart-tip"]
 {
-line_height: 22px !important;
+line-height: 22px !important;
 }
 
 
