@@ -34,7 +34,7 @@ body > table > tbody > tr > td > div > div > div[aria-label*="My Tasks"]{
 font-size : 18px !important;
 font-weight: bold;
 color: #FFFFFF !important; 
-line_height: 22px !important;
+line-height: 22px !important;
 }
 
 /*TL Main Body*/
@@ -42,7 +42,7 @@ body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="
 {
 font-size : 16px !important;
 color: #030000 !important; 
-line_height: 22px !important;
+line-height: 22px !important;
 }
 
 /*TL Border Radius*/
