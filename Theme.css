@@ -34,13 +34,15 @@ body > table > tbody > tr > td > div > div > div[aria-label*="My Tasks"]{
 font-size : 18px !important;
 font-weight: bold;
 color: #FFFFFF !important; 
+line_height: 22px !important;
 }
 
 /*TL Main Body*/
 body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"]
 {
 font-size : 16px !important;
-color: #030000 !important;    
+color: #030000 !important; 
+line_height: 22px !important;
 }
 
 /*TL Border Radius*/
@@ -52,6 +54,7 @@ color: #030000 !important;
 #wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div > div > div
 {
    font-size : 14px !important; 
+   line_height: 22px !important;
 }
 
 /* Flow Tool Tip Back and Next Button */
@@ -81,6 +84,7 @@ color: #030000 !important;
 #wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
 {
   border-radius: 4px !important;
+    line_height: 22px !important;
 }
 
 /* Flow as Popup Secondary Button */
@@ -111,10 +115,10 @@ body > div > div > div > div:nth-child(2) > button:hover{
     background-color: #030000 !important;
 }
 
-/* Font Family for Smart Tip 
+ Font Family for Smart Tip 
 [id="wfx-smart-tip"]
 {
-font-family : Arial !important;
-}*/
+line_height: 22px !important;
+}
 
 
