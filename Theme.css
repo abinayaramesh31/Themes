@@ -93,7 +93,9 @@ font-size: 16px !important;
     color: #030000 !important;
     background-color: #BFB8A6 !important;
     border-radius: 4px !important;
-    font-weight: bold !important;}
+    font-weight: bold !important;
+    line_height: 22px !important;
+}
 
 /* Flow as Popup Secondary Button On Hover*/
 body > div > div> div > div:nth-child(1) > button: hover{
@@ -107,6 +109,12 @@ body > div > div > div > div:nth-child(2) > button{
     background-color: #030000 !important;
     border-radius: 4px !important;
     font-weight: bold !important;  
+    line_height: 22px !important;
+}
+
+/* Flow as Popup line Height*/
+body > div > div{ 
+    line_height: 22px !important;
 }
 
 /* Flow as Popup Primary Button On Hover*/
