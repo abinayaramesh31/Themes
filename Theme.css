@@ -37,6 +37,12 @@ color: #FFFFFF !important;
 line-height: 22px !important;
 }
 
+/*Text below TL Header*/
+body > table > tbody > tr > td > div > div > div > div:nth-child(1){
+    line-height: 22px !important;
+}
+
+
 /*TL Main Body*/
 body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"]
 {
