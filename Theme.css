@@ -93,6 +93,12 @@ line-height: 22px !important;
     line-height: 22px !important;
 }
 
+/* Smart Tip Tool Tip title and note line height*/
+#wfx-tooltip-title, #wfx-tooltip-note {
+    line-height: 22px !important;
+}
+
+
 /* Flow as Popup Secondary Button */
 body > div > div> div > div:nth-child(1) > button{
 font-size: 16px !important;
@@ -129,10 +135,6 @@ body > div > div > div > div:nth-child(2) > button:hover{
     background-color: #030000 !important;
 }
 
- Font Family for Smart Tip 
-[id="wfx-smart-tip"]
-{
-line-height: 22px !important;
-}
+
 
 
