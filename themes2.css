@@ -1,0 +1,136 @@
+/* SH Title */
+body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-title"]  {
+font-size : 18px !important;
+font-weight: bold;
+color: #FFFFFF !important; 
+}
+/* SH cross ICON */
+body > table > tbody > tr:nth-child(1) > td > div > a {
+    opacity : 1;
+}
+
+/* SH Flow Titles */
+[id*="wfx-dashboard-self-help-flow-"] {
+color: #030000 !important;
+font-size : 16px !important;
+}
+
+/* SH Search Field */
+input[id="search"]
+{
+font-size : 16px !important;
+color: #727365 !important;  
+}
+
+/* Padding below search border*/
+body > table > tbody > tr:nth-child(2) > td > div > div > table
+{
+    border: 2px solid;
+    border-radius: 25px;
+    padding-left: 12px;
+    border-color: #030000 !important;
+
+}
+
+
+/*TL Header*/
+body > table > tbody > tr > td > div > div > div[aria-label*="My Tasks"]{
+font-size : 18px !important;
+font-weight: bold;
+color: #FFFFFF !important; 
+line-height: 22px !important;
+}
+
+/*TL Main Body*/
+body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"]
+{
+font-size : 16px !important;
+color: #030000 !important; 
+line-height: 22px !important;
+}
+
+/*TL Border Radius*/
+#_tasker_launcher_wfx_{
+ border-radius: 4px !important;   
+}
+
+/*Flow Step Title */
+#wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div > div > div
+{
+   font-size : 14px !important; 
+   line-height: 22px !important;
+}
+
+/* Flow Tool Tip Back and Next Button */
+#wfx-tooltip-back,#wfx-tooltip-next {
+    border-radius: 4px !important;
+    font-size: 14px !important;
+}
+
+/* Tool Tip Back and Next Button On Hover Color */
+#wfx-tooltip-back:hover,#wfx-tooltip-next:hover{
+    color: #FFD530 !important;
+    background-color: #030000 !important;
+}
+
+/*End Message Close Button Border Radius*/
+#wfx-end-popup-feedback-form > div > button {
+    border-radius: 4px !important;
+}
+
+/*End Message Close Button On Hover Text Color*/
+#wfx-end-popup-feedback-form > div > button:hover {
+   color: #FFD530 !important;
+   border-radius: 4px !important;
+}
+
+/* Smart Tip Border Radius*/
+#wfx-smart-tip > div > div > table > tbody > tr:nth-child(2) > td > div > table
+{
+  border-radius: 4px !important;
+    line-height: 22px !important;
+}
+
+/* Flow as Popup Secondary Button */
+body > div > div> div > div:nth-child(1) > button{
+font-size: 16px !important;
+    color: #030000 !important;
+    background-color: #BFB8A6 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;
+    line-height: 22px !important;
+}
+
+/* Flow as Popup Secondary Button On Hover*/
+body > div > div> div > div:nth-child(1) > button: hover{
+        background-color: #E5E5E5 !important; 
+}
+
+/* Flow as Popup Primary Button*/
+body > div > div > div > div:nth-child(2) > button{
+    color: #FFFFFF !important;
+    font-size: 16px !important;
+    background-color: #030000 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;  
+    line-height: 22px !important;
+}
+
+/* Flow as Popup line Height*/
+body > div > div{ 
+    line-height: 22px !important;
+}
+
+/* Flow as Popup Primary Button On Hover*/
+body > div > div > div > div:nth-child(2) > button:hover{
+    color: #FFD530 !important;
+    background-color: #030000 !important;
+}
+
+ Font Family for Smart Tip 
+[id="wfx-smart-tip"]
+{
+line-height: 22px !important;
+}
+
+
