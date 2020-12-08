@@ -113,7 +113,7 @@ body > div > div > div > div:nth-child(2) > button{
 }
 
 /* Flow as Popup line Height*/
-body > div > div{ 
+body > div > div, body > div > div > div { 
     line-height: 22px !important;
 }
 
