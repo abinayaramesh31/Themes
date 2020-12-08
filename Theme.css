@@ -1,5 +1,14 @@
-/* Smart Tip Tool Tip title and note line height*/
+/* Smart Tip Tool Tip title and note line height - Tool Tip note applies to flows as well*/
 #wfx-tooltip-title, #wfx-tooltip-note {
+   line-height: 22px !important;
+}
+/* Flow step number, next and back button */
+#wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div > div > div, #wfx-tooltip-back,#wfx-tooltip-next {
+   line-height: 22px !important;
+}
+
+/*End message feedback form*/
+#wfx-end-popup-feedback-form{
    line-height: 22px !important;
 }
 
