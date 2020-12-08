@@ -1,3 +1,8 @@
+/* Smart Tip Tool Tip title and note line height*/
+#wfx-tooltip-title, #wfx-tooltip-note {
+    line-height: 22px !important;
+}
+
 /* SH Title */
 body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-title"]  {
 font-size : 18px !important;
