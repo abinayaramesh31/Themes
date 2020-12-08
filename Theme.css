@@ -138,7 +138,7 @@ body > div > div > div > div:nth-child(2) > button{
     line-height: 22px !important;
 }
 
-/* Flow as Popup line Height*/
+/* Flow as Popup line Height - applies to end message popup as well*/
 body > div > div, body > div > div > div { 
     line-height: 22px !important;
 }
