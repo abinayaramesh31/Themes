@@ -30,7 +30,7 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 
 
 /*TL Header*/
-body > table > tbody > tr > td > div > div > div[aria-label*="My Tasks"]{
+body > table > tbody > tr > td > div > div > div[aria-label*="Task"]{
 font-size : 18px !important;
 font-weight: bold;
 color: #FFFFFF !important; 
