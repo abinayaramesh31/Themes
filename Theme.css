@@ -1,6 +1,7 @@
 /* Smart Tip Tool Tip title and note line height*/
-#wfx-tooltip-title, #wfx-tooltip-note {
-    line-height: 22px !important;
+#wfx-tooltip-title
+{
+   line-height: 22px !important;
 }
 
 /* SH Title */
