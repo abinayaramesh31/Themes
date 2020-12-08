@@ -19,6 +19,7 @@ body > table > tbody > tr:nth-child(1) > td > div > a {
 [id*="wfx-dashboard-self-help-flow-"] {
 color: #030000 !important;
 font-size : 16px !important;
+padding-left: 6px
 }
 
 /* SH Search Field */
