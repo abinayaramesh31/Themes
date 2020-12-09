@@ -149,6 +149,7 @@ body > div > div > div > div:nth-child(2) > button:hover{
     background-color: #030000 !important;
 }
 
-
-
+/* Flow as Popup -Do not skip button left justify*/
+body > div > div > table > tbody > tr > td > table{
+padding-right : 395px; }
 
