@@ -26,6 +26,7 @@ color: #727365 !important;
 /* SH Search Field placeholder color */
 input[id="search"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: red;
+  opacity : 1;
 }
 
 /* Padding below search border*/
