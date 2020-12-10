@@ -9,12 +9,6 @@ body > table > tbody > tr:nth-child(1) > td > div > a {
     opacity : 1;
 }
 
-.WFWIKCB>div>div:FIRST-CHILD {
-    min-width: 40px;
-    width: 10%;
-    padding-left: 16px
-}
-
 /* SH Flow Titles */
 [id*="wfx-dashboard-self-help-flow-"] {
 color: #030000 !important;
