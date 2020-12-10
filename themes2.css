@@ -39,8 +39,7 @@ body > table > tbody > tr:nth-child(2) > td > div > div {
 
 /* SH Search Field placeholder color */
 input[id="search"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: red;
-  opacity : 1;
+  color: #727365;
 }
 
 /* Padding below search border*/
