@@ -8,8 +8,7 @@ color: #FFFFFF !important;
 body > table > tbody > tr:nth-child(1) > td > div > a {
     opacity : 1;
 }
-
-body > table > tbody > tr:nth-child(2) > td > div > div > table > tbody > tr > td:nth-child(3)[aria-label="Clear"] {
+body > table > tbody > tr:nth-child(2) > td > div > div > table > tbody > tr > td:nth-child(3) > a[aria-label="Clear"]{
     padding-right : 36px;    
 }
 
