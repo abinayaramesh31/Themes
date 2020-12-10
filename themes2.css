@@ -12,6 +12,10 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table > tbody > tr > t
     padding-right : 36px;    
 }
 
+[id="_widget_launcher_wfx_"] {
+    height : 406px !important;   
+}
+
 /* SH Flow Titles */
 [id*="wfx-dashboard-self-help-flow-"] {
 color: #030000 !important;
