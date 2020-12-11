@@ -59,7 +59,8 @@ color: #727365;
 }
 
 /*SH content icon*/
-body > table > tbody > tr:nth-child(4) > td > div > div > div > div > div > div:nth-child(1) > div[data-wfx-id="content-icon"]{
+[data-wfx-id="content-icon"]
+{
 padding-left : 14px !important;
 }
 
