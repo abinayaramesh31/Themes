@@ -23,7 +23,7 @@ color: #FFFFFF !important;
 [id*="wfx-dashboard-self-help-flow-"] {
 color: #030000 !important;
 font-size : 16px !important;
-padding-left: 6px;   
+padding-left: 9px;   
 }
 
 /* SH cross ICON */
@@ -48,7 +48,7 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 {
     border: 2px solid;
     border-radius: 25px;
-    padding-left: 12px;
+    padding-left: 10px;
     border-color: #030000 !important;
 
 }
@@ -56,6 +56,11 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 /* SH Search Field placeholder color */
 input[id="search"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 color: #727365;
+}
+
+/*SH content icon*/
+body > table > tbody > tr:nth-child(4) > td > div > div > div > div > div > div:nth-child(1) > div[data-wfx-id="content-icon"]'){
+padding-left : 14px !important;
 }
 
 /*TL Header*/
