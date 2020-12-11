@@ -25,11 +25,21 @@ color: #030000 !important;
 font-size : 16px !important;
 }
 
+/* SH cross ICON */
+body > table > tbody > tr:nth-child(1) > td > div > a {
+opacity : 1;
+}
+
+/* SH Search Field border*/
+body > table > tbody > tr:nth-child(2) > td > div > div {
+width : 98% !important;
+}
+
 /* SH Search Field */
 input[id="search"]
 {
 font-size : 16px !important;
-color: #727365 !important;  
+/*color: #727365 !important;  */
 }
 
 /* Padding below search border*/
@@ -42,6 +52,10 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
 
 }
 
+/* SH Search Field placeholder color */
+input[id="search"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+color: #727365;
+}
 
 /*TL Header*/
 body > table > tbody > tr > td > div > div > div[aria-label*="Task"]{
