@@ -50,6 +50,7 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table
     border-radius: 25px;
     padding-left: 10px;
     border-color: #030000 !important;
+    padding-top: 4px;
 
 }
 
