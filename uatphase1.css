@@ -82,7 +82,7 @@ body > table > tbody > tr > td > div > div > div[aria-label*="Task"] {
 /*TL Main Body*/
 body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"] {
     font-size: 16px !important;
-    color: #030000 !important
+    color: #030000 !important;
     background-color: #FFFFFF !important;
 }
 
