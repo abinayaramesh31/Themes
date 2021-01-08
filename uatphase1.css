@@ -85,9 +85,7 @@ body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="
     background-color: #FFFFFF !important;
 }
 
-body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"] > div > a{
-   color: #030000 !important;
-}
+
 
 /*End Message Close Button Border Radius*/
 #wfx-end-popup-feedback-form > div > button {
