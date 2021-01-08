@@ -1,0 +1,105 @@
+
+/* SH Title */
+table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="self-help-title"] {
+    font-size: 18px !important;
+    font-weight: bold;
+    color: #FFFFFF !important;
+}
+
+
+/* SH cross ICON */
+table[data-wfx-id="wfx-self-help-widget"] a[data-wfx-id="widget-close"] {
+    opacity: 1;
+}
+
+
+/* SH Search Field border*/
+table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="self-help-search-panel"] {
+    width: 100% !important;
+}
+
+/* SH Search Field */
+table[data-wfx-id="wfx-self-help-widget"] input[id="search"] {
+    font-size: 16px !important;
+    /*color: #727365 !important;  */
+}
+
+/* Padding below search border*/
+table[data-wfx-id="wfx-self-help-widget"] table[data-wfx-id="self-help-search-grid"] {
+    border: 2px solid;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: #030000 !important;
+    padding-top: 4px !important;
+}
+
+/* SH Search Field placeholder color */
+table[data-wfx-id="wfx-self-help-widget"] input[id="search"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #727365;
+}
+
+/*SH content icon*/
+table[data-wfx-id="wfx-self-help-widget"] [data-wfx-id="content-icon"] {
+    padding-left: 8px !important;
+}
+
+/*[data-wfx-id="content-icon"] svg, [data-wfx-id="content-icon"] > a svg, [data-wfx-id="content-icon"] > a path, [data-wfx-id="content-icon"] svg {*/
+/*    !*fill: #1b1c1f;*!*/
+/*    !*stroke: black*!*/
+/*}*/
+
+table[data-wfx-id="wfx-self-help-widget"] [data-wfx-id="content-icon"] svg > g > path,
+table[data-wfx-id="wfx-self-help-widget"] [data-wfx-id="content-icon"] svg {
+    fill: #030000;
+}
+
+table[data-wfx-id="wfx-self-help-widget"] [data-wfx-id="text-header"] [data-wfx-id="content-icon"] svg > g > path {
+    stroke: #030000;
+    fill: none;
+}
+
+/* SH Flow Titles */
+table[data-wfx-id="wfx-self-help-widget"] a[data-wfx-id="content-title"],
+table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="text-content"],
+table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="expandable-content"] {
+    color: #030000 !important;
+    font-size: 16px !important;
+    /*font-weight: 400 !important;*/
+    padding-left: 8px;
+}
+
+table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="text-content"] {
+    padding-left: 54px;
+}
+
+/*TL Header*/
+body > table > tbody > tr > td > div > div > div[aria-label*="Task"] {
+    font-size: 18px !important;
+    font-weight: bold;
+}
+
+/*TL Main Body*/
+body > table > tbody > tr > td > div > div > div > div > div > div[data-wfx-id="tasker-all-contents"] {
+    font-size: 16px !important;
+    background-color: #FFFFFF !important;
+}
+
+
+/*End Message Close Button Border Radius*/
+#wfx-end-popup-feedback-form > div > button {
+    border-radius: 4px !important;
+}
+
+/*End Message Close Button On Hover Text Color*/
+#wfx-end-popup-feedback-form > div > button:hover {
+    color: #FFD530 !important;
+    border-radius: 4px !important;
+}
+
+
+/*End message feedback form*/
+#wfx-end-popup-feedback-form {
+    line-height: 22px !important;
+}
+
