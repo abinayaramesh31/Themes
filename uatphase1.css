@@ -15,7 +15,7 @@ table[data-wfx-id="wfx-self-help-widget"] a[data-wfx-id="widget-close"] {
 
 /* SH Search Field border*/
 table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="self-help-search-panel"] {
-    width: 100% !important;
+    width: 97.5% !important;
 }
 
 /* SH Search Field */
