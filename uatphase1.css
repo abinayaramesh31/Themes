@@ -32,6 +32,7 @@ table[data-wfx-id="wfx-self-help-widget"] table[data-wfx-id="self-help-search-gr
     padding-right: 10px;
     border-color: #030000 !important;
     padding-top: 4px !important;
+    margin-top: 4px !important;
 }
 
 /* SH Search Field placeholder color */
