@@ -46,6 +46,7 @@ table[data-wfx-id="wfx-self-help-widget"] input[id="search"]:focus::placeholder 
 /* SH Search Field placeholder color - WCAG text */
 table[data-wfx-id="wfx-self-help-widget"] input[id="search"]+div{
     color: #727365;
+    padding-top: 4px !important;
 }
 
 /*SH content icon*/
