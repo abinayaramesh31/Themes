@@ -38,6 +38,14 @@ table[data-wfx-id="wfx-self-help-widget"] table[data-wfx-id="self-help-search-gr
 table[data-wfx-id="wfx-self-help-widget"] input[id="search"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #727365;
 }
+/* SH Search Field text to transparent on placing cursor*/
+table[data-wfx-id="wfx-self-help-widget"] input[id="search"]:focus::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: transparent;
+}
+/* SH Search Field placeholder color - WCAG text */
+table[data-wfx-id="wfx-self-help-widget"] input[id="search"]+div{
+    color: #727365;
+}
 
 /*SH content icon*/
 table[data-wfx-id="wfx-self-help-widget"] [data-wfx-id="content-icon"] {
