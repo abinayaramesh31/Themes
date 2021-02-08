@@ -68,3 +68,8 @@ button[data-wfx-button-href]:hover{
 table[data-wfx-id="wfx-self-help-widget"] table[data-wfx-id="self-help-search-grid"] {
     padding-bottom: 10px !important;
 }
+
+[data-wfx-id="wfx-self-help-widget"] [data-wfx-id="widget-content-group"] [data-wfx-id="expandable-content"]
+{
+  font-weight: 98;
+}
