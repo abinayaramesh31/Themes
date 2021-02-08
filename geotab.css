@@ -64,3 +64,7 @@ button[data-wfx-button-href]:hover{
     background-color:#1070a9 !important;
     color: #FFFFFF !important;
 }
+
+table[data-wfx-id="wfx-self-help-widget"] table[data-wfx-id="self-help-search-grid"] {
+    padding-bottom: 10px !important;
+}
